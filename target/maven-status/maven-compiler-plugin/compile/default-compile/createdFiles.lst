@@ -1,0 +1,15 @@
+com\crossover\trial\weather\WeatherServer.class
+com\crossover\trial\weather\service\RestWeatherCollectorEndpoint.class
+com\crossover\trial\weather\service\IWeatherQueryEndpoint.class
+com\crossover\trial\weather\service\IWeatherCollector.class
+com\crossover\trial\weather\domain\DataPoint$Builder.class
+com\crossover\trial\weather\exception\WeatherException.class
+com\crossover\trial\weather\domain\DataPoint.class
+com\crossover\trial\weather\WeatherServer$2.class
+com\crossover\trial\weather\AirportLoader.class
+com\crossover\trial\weather\domain\AirportData.class
+com\crossover\trial\weather\domain\DataPointType.class
+com\crossover\trial\weather\service\RestWeatherQueryEndpoint.class
+com\crossover\trial\weather\WeatherServer$1.class
+com\crossover\trial\weather\domain\AtmosphericInformation.class
+com\crossover\trial\weather\client\WeatherClient.class

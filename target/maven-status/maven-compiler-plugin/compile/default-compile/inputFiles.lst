@@ -1,0 +1,12 @@
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\domain\DataPointType.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\service\RestWeatherCollectorEndpoint.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\domain\DataPoint.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\exception\WeatherException.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\service\IWeatherCollector.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\domain\AtmosphericInformation.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\domain\AirportData.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\client\WeatherClient.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\service\IWeatherQueryEndpoint.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\WeatherServer.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\AirportLoader.java
+C:\tmp\weather-dist\src\main\java\com\crossover\trial\weather\service\RestWeatherQueryEndpoint.java
